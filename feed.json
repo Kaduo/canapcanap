@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Le canapé de Marine et Balthazar",
+    "description": "",
+    "home_page_url": "https://github.com/Kaduo/canapcanap",
+    "feed_url": "https://github.com/Kaduo/canapcanap/feed.json",
+    "user_comment": "",
+    "icon": "https://github.com/Kaduo/canapcanap/media/website/favicon.png",
+    "author": {
+        "name": "Balthazar Potet et Marine Bap"
+    },
+    "items": [
+        {
+            "id": "https://github.com/Kaduo/canapcanap/hello-world-numero-duo.html",
+            "url": "https://github.com/Kaduo/canapcanap/hello-world-numero-duo.html",
+            "title": "Hello world numero duo",
+            "summary": "# What's up ? Hahaha",
+            "content_html": "<p># What's up ?</p>\n<p>Hahaha</p>",
+            "author": {
+                "name": "Balthazar Potet et Marine Bap"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-29T12:14:41+02:00",
+            "date_modified": "2023-03-29T12:14:41+02:00"
+        },
+        {
+            "id": "https://github.com/Kaduo/canapcanap/hello-world.html",
+            "url": "https://github.com/Kaduo/canapcanap/hello-world.html",
+            "title": "Hello world",
+            "summary": "Hello world",
+            "content_html": "<p>Hello world</p>",
+            "author": {
+                "name": "Balthazar Potet et Marine Bap"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-27T08:53:52+02:00",
+            "date_modified": "2023-03-27T08:53:52+02:00"
+        }
+    ]
+}

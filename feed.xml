@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Le canapé de Marine et Balthazar</title>
+    <link href="https://github.com/Kaduo/canapcanap/feed.xml" rel="self" />
+    <link href="https://github.com/Kaduo/canapcanap" />
+    <updated>2023-03-29T12:14:41+02:00</updated>
+    <author>
+        <name>Balthazar Potet et Marine Bap</name>
+    </author>
+    <id>https://github.com/Kaduo/canapcanap</id>
+
+    <entry>
+        <title>Hello world numero duo</title>
+        <author>
+            <name>Balthazar Potet et Marine Bap</name>
+        </author>
+        <link href="https://github.com/Kaduo/canapcanap/hello-world-numero-duo.html"/>
+        <id>https://github.com/Kaduo/canapcanap/hello-world-numero-duo.html</id>
+
+        <updated>2023-03-29T12:14:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                    # What's up ? Hahaha
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p># What's up ?</p>
+<p>Hahaha</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hello world</title>
+        <author>
+            <name>Balthazar Potet et Marine Bap</name>
+        </author>
+        <link href="https://github.com/Kaduo/canapcanap/hello-world.html"/>
+        <id>https://github.com/Kaduo/canapcanap/hello-world.html</id>
+
+        <updated>2023-03-27T08:53:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello world
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello world</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
